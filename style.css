@@ -81,7 +81,7 @@ nav ul{
 
 nav ul li a{
     text-decoration: none;
-    color: orangered;
+    color: white;
 }
 
 .menu-icon{
@@ -89,7 +89,7 @@ nav ul li a{
 }
 
 .menu-icon i{
-    color: orangered;
+    color: white;
     font-size: 30px;
 }
 
